@@ -2,6 +2,9 @@
 
 一个ComfyUI自定义节点插件，允许将任何输入映射到任何其他输入。
 
+<img width="726" height="614" alt="1233" src="https://github.com/user-attachments/assets/dae4420e-7d8c-4f72-8c6e-c6455efb2825" />
+
+
 PS：商用平台方使用请知会一声哈！
 
 ## 功能特性
@@ -82,5 +85,6 @@ PS：商用平台方使用请知会一声哈！
 - 节点会直接传递输入值，不做任何修改
 - 类型转换仅在 **🔵BB 通用映射 (Universal)** 节点中进行
 - 确保输入值符合目标类型的格式要求
+
 
 
